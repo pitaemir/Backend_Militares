@@ -1,0 +1,19 @@
+{
+  "name": "backend_militares",
+  "version": "0.0.1",
+  "description": "API e Banco de dados do projeto",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarefasUFSC/Backend_Militares.git"
+  },
+  "author": "Grupo Militares - PI1/UFSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarefasUFSC/Backend_Militares/issues"
+  },
+  "homepage": "https://github.com/TarefasUFSC/Backend_Militares#readme"
+}
